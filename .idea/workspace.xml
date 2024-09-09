@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f55207-2e1c-4e0e-bc0b-285563799650" name="Changes" comment="add Boolean.kt" />
+    <list default="true" id="40f55207-2e1c-4e0e-bc0b-285563799650" name="Changes" comment="add String.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="60b16694-d891-40be-ba21-bba0782f069e" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -114,11 +117,38 @@
       <option name="project" value="LOCAL" />
       <updated>1725870314627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push stater project.">
+      <created>1725870473993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725870473993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add String.kt">
+      <created>1725870619515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725870619515</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Boolean.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Boolean.kt" />
+    <MESSAGE value="push stater project." />
+    <MESSAGE value="add String.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add String.kt" />
   </component>
 </project>
